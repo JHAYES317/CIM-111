@@ -1,0 +1,48 @@
+p{
+font-family: 'Pacifico', cursive;
+}
+body{
+	background-color: orange;
+	color: white;
+	font-family: 'Indie Flower', cursive;
+
+}
+a:link {
+  text-decoration: none;
+ }
+ a:hover { 
+  background-color: yellow;
+}
+#myHeader {
+  background-color: blue;
+  color: white;
+  padding: 40px;
+  text-align: center;
+}
+#paragraph { 
+  background-color: blue;
+}
+
+.Hobbies {
+  background-color: green;
+  color: white;
+  padding: 10px;
+} 
+.Work {
+  background-color: green;
+  color: white;
+  padding: 10px;
+} 
+.Recommendations {
+  background-color: green;
+  color: white;
+  padding: 10px;
+} 
+.Address {
+  background-color: green;
+  color: white;
+  padding: 10px;
+} 
+dir {
+	background-color: purple
+}
