@@ -21,7 +21,7 @@ li{
 	text-align: left;
 	font-size: 18px;
 	background-color: gray;
-	padding: 10px;
+	padding: 5px;
 	display: inline-grid;
 	grid-template-rows: 100px 1fr;
 
