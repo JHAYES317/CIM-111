@@ -33,6 +33,7 @@
 	list-style: none;
 	text-transform: uppercase;
 	text-decoration: underline;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 }
 
 .cityinfo{
