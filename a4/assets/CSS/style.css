@@ -111,15 +111,24 @@
 	  		body{
 			background-color: yellow;
 		    }
+		    img{
+		    	width: 300px;
+		    }
 	}
 @media only screen and (min-width: 500px){
 	  		body{
 			background-color: yellow;
 		    }
+		    img{
+		    	width: 200px;
+		    }
 	}
 @media only screen and (min-width: 250px){
 	  		body{
 			background-color: yellow;
+		    }
+		    img{
+		    	width: 100px;
 		    }
 	}
 
