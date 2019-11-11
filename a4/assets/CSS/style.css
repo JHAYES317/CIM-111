@@ -1,51 +1,65 @@
+
 .title{
 	text-align: left;
+	background-color: red;
 }
 
 .menu{
 	text-align: left;
+	background-color: blue;
 }
 
 .cityinfo{
 	text-align: left;
+	background-color: blue;
 }
 
 .population{
 	text-align: left;
+	background-color: green;
 }
 
 .income{
 	text-align: left;
+	background-color: green;
 }
 
 .about{
 	text-align: left;
+	background-color: blue;
 }
 
 .education{
 	text-align: left;
+	background-color: green;
 }
 
 .media{
 	text-align: left;
+	background-color: green;
 }
 
 .climate{
 	text-align: left;
+	background-color: green;
 }
 
 .mall{
 	text-align: left;
+	background-color: green;
 }
 
 .turnberry{
 	text-align: left;
+	background-color: green;
 }
 
 .center{
 	text-align: left;
+	background-color: green;
 }
 
 .park{
 	text-align: left;
+	background-color: green;
 }
