@@ -65,5 +65,15 @@ menu a{
 	background: white;
 	padding: 15px;
 	border: 2px solid black;
+	text-align: right;
+}
+
+.feature .icon{
+	font-size: 40px;
+	color: gray;
+}
+
+.feature p{
+	color: black;
 }
 
