@@ -43,90 +43,120 @@
 	text-align: center;
 	background-color: green;
 	color: white;
+	align-items: center;
+	align-content: center;
 }
 
 .income{
 	text-align: center;
 	background-color: green;
 	color: white;
+	align-items: center;
+	align-content: center;
 }
 
 .about{
 	text-align: center;
 	background-color: green;
 	color: white;
+	align-items: center;
+	align-content: center;
 }
 
 .education{
 	text-align: center;
 	background-color: green;
 	color: white;
+	align-items: center;
+	align-content: center;
 }
 
 .media{
 	text-align: center;
 	background-color: green;
 	color: white;
+	align-items: center;
+	align-content: center;
 }
 
 .climate{
 	text-align: center;
 	background-color: green;
 	color: white;
+	align-items: center;
+	align-content: center;
 }
 
 .transportation{
 	text-align: center;
 	background-color: green;
 	color: white;
+	align-items: center;
+	align-content: center;
 }
 
 .mall{
 	text-align: center;
 	background-color: green;
 	color: white;
+	align-items: center;
+	align-content: center;
 }
 
 .turnberry{
 	text-align: center;
 	background-color: green;
 	color: white;
+	align-items: center;
+	align-content: center;
 }
 
 .center{
 	text-align: center;
 	background-color: green;
 	color: white;
+	align-items: center;
+	align-content: center;
 }
 
 .park{
 	text-align: center;
 	background-color: green;
 	color: white;
+	align-items: center;
+	align-content: center;
 }
 
 .text{
 	text-align:center;
 	background-color: blue;
 	color: white;
+	align-items: center;
+	align-content: center;
 }
 
 .amount{
 	text-align: center;
 	background-color:blue;
 	color:white;
+	align-items: center;
+	align-content: center;
 }
 
 .Address{
 	text-align: center;
 	background-color:green;
 	color: white;
+	align-items: center;
+	align-content: center;
 }
 
 .address{
 	text-align: center;
 	background-color: white;
 	color: black;
+	align-items: center;
+	align-content: center;
 }
 
 @media only screen and (min-width: 750px){
