@@ -3,28 +3,4 @@
 	grid-gap: 20px;
 }
 
-.gallery{
-	display: grid;
-	grid-gap: 20px;
-	grid-template-columns: repeat(auto-fit,minmax(2px, 1fr));
-	align-content: center;
-}
-
-.gallery img{
-	width: 100%;
-}
-
-.gallery h3{
-	grid-column: : 1/-1;
-	display: grid;
-	grid-template-rows: 1fr auto 1fr;
-	grid-gap: 20px;
-	align-items: center;
-}
-
-.gallery h3: before, gallery h3: after{
-	display: block;
-	height: 10px;
-	background: blue;
-}
 
