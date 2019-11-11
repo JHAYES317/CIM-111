@@ -1,0 +1,29 @@
+.container{
+	display: inline-grid;
+	grid-gap: 25px;
+}
+
+.gallery{
+	display: inline-grid;
+	grid-gap:25px;
+	grid-template-rows: repeat(auto-fit,minmax(250px, 2fr));
+}
+
+.gallery img{
+	width: 100%;
+}
+
+.gallery h3{
+	grid-row: 2/-2;
+	display: inline-grid;
+	grid-template-rows: 2fr auto 2fr;
+	grid-gap: 25px;
+	align-items: right;
+}
+
+.gallery h3: before, gallery h3: after{
+	display: inline-block;
+	height: 12px;
+	background: blue;
+}
+
