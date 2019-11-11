@@ -1,17 +1,17 @@
 
 .title{
 	text-align: left;
-	background-color: red;
+	background-color: green;
 }
 
 .Menu{
 	text-align: left;
-	background-color: blue;
+	background-color: green;
 }
 
 .cityinfo{
 	text-align: left;
-	background-color: blue;
+	background-color: green;
 }
 
 .population{
@@ -26,7 +26,7 @@
 
 .about{
 	text-align: left;
-	background-color: blue;
+	background-color: green;
 }
 
 .education{
@@ -40,6 +40,11 @@
 }
 
 .climate{
+	text-align: left;
+	background-color: green;
+}
+
+.transportation{
 	text-align: left;
 	background-color: green;
 }
