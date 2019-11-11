@@ -12,7 +12,7 @@ img {
 }
 
 .topSection{
-	display: inline-grid;
+	display: grid;
 	grid-gap: 25px;
 	grid-template-areas: 
 	"logo logo population"
