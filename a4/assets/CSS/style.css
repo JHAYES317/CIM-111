@@ -7,16 +7,16 @@ img {
 }
 
 .container{
-	display: grid;
+	display: inline-grid;
 	grid-gap: 25px;
 }
 
 .topSection{
-	display: grid;
+	display: inline-grid;
 	grid-gap: 25px;
 	grid-template-areas: 
 	"logo logo population"
-	"logo logo income"
+	"logo logo income";
 }
 
 .frosted{
@@ -34,7 +34,7 @@ img {
 	background-size: cover;
 	background-position: bottom left;
 	padding: 60px;
-	display: grid;
+	display: inline-grid;
 }
 
 menu a{
@@ -49,6 +49,21 @@ menu a{
 .menu a:hover{
 	text-decoration: bold;
 	margin-left: 25px;
-	background-color: blue
+	background-color: blue;
+}
+
+.features{
+	display: inline-grid;
+	grid-template-rows: repeat(auto-fit, minmax(250px, 2fr));
+}
+
+.feature h3{
+	color: purple;
+}
+
+.feature{
+	background: black;
+	padding: 15px;
+	border: 2px solid black;
 }
 
