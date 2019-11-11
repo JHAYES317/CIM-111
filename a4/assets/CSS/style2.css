@@ -20,7 +20,6 @@ li{
 	margin-right: 12px;
 	text-align: center;
 	font-size: 18px;
-	background-color: gray;
 	padding: 10px;
 	display: grid;
 	grid-template-columns: 200px 1fr;
