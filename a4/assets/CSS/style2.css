@@ -11,10 +11,9 @@
 }
 
 .menu ul{
-	display: inline-grid;
-	padding: 1;
-	list-style: somali;
-	grid-template-rows: repeat(auto-fit, minmax(150px, 2fr));
+	text-align: center;
+	font-size: 48px;
+	text-decoration: bold;
 }
 
 li{
