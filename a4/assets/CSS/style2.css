@@ -65,3 +65,7 @@ li{
 .logo{
 	text-align: center;
 }
+
+.gallery img{
+	align-items: center;
+}
