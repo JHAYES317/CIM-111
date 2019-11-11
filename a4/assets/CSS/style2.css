@@ -36,6 +36,7 @@ li{
 
 .Turnberry{
 	text-align: center;
+	vertical-align: middle;
 }
 
 .Mall{
@@ -66,7 +67,10 @@ li{
 	text-align: center;
 }
 
-.img{
-	vertical-align: middle;
-	display: block;
+<style type="text/css">
+.yacht
+{
+ text-align:center;
+ display:block;
 }
+</style>
