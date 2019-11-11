@@ -26,6 +26,8 @@
 	background-position: bottom right;
 	display: grid;
 	padding: 5px;
+	align-items: center;
+	align-content: center;
 }
 
 .cityinfo{
