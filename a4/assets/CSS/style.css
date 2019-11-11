@@ -112,7 +112,7 @@
 			background-color: yellow;
 		    }
 		    img{
-		    	width: 300px;
+		    	max-width: : 100%;
 		    }
 	}
 @media only screen and (min-width: 500px){
@@ -120,7 +120,7 @@
 			background-color: yellow;
 		    }
 		    img{
-		    	width: 200px;
+		    	max-width: : 200px;
 		    }
 	}
 @media only screen and (min-width: 250px){
