@@ -17,6 +17,7 @@
 	background-size: cover;
 	background-position: bottom right;
 	display: grid;
+	padding: 50px;
 }
 
 .cityinfo{
