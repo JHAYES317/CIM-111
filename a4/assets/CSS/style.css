@@ -8,6 +8,7 @@
 	background-color: green;
 	color: white;
 	padding: none;
+	text-transform: uppercase;
 }
 
 .Menu{
@@ -25,7 +26,6 @@
 	background-color: green;
 	color: white;
 	text-decoration: none;
-	text-transform: uppercase;
 }
 
 .population{
