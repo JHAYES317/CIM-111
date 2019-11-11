@@ -17,6 +17,7 @@ img {
 	grid-template-areas: 
 	"logo logo population"
 	"logo logo income";
+	vertical-align: middle;
 }
 
 .title{
