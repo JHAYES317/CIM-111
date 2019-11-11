@@ -110,16 +110,19 @@
 @media only screen and (min-width: 750px){
 	  		body{
 			background-color: yellow;
+			font-size: 25px;
 		    }
 	}
 @media only screen and (min-width: 500px){
 	  		body{
 			background-color: yellow;
+			font-size: 20px;
 		    }
 	}
 @media only screen and (min-width: 250px){
 	  		body{
 			background-color: yellow;
+			font-size: 15px;
 		    }
 	}
 
