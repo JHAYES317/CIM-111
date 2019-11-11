@@ -251,19 +251,19 @@
 @media only screen and (min-width: 750px){
 	  		body{
 			background-color: yellow;
-			font-size: 25px;
+			width: 100%
 		    }
 	}
 @media only screen and (min-width: 500px){
 	  		body{
 			background-color: yellow;
-			font-size: 20px;
+			width: 75%;
 		    }
 	}
 @media only screen and (min-width: 250px){
 	  		body{
 			background-color: yellow;
-			font-size: 15px;
+			width: 50%;
 		    }
 	}
 
