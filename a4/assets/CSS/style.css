@@ -16,7 +16,7 @@
 	color: white;
 	background-size: cover;
 	background-position: bottom right;
-	
+	display: grid;
 }
 
 .cityinfo{
