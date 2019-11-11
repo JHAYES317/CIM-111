@@ -1,0 +1,54 @@
+body {
+	font-size: 12px;
+}
+
+img {
+	max-width: 100%;
+}
+
+.container{
+	display: grid;
+	grid-gap: 25px;
+}
+
+.topSection{
+	display: grid;
+	grid-gap: 25px;
+	grid-template-areas: 
+	"logo logo population"
+	"logo logo income"
+}
+
+.frosted{
+	background-color: red;
+	width: 400px;
+	height: 200px;
+	padding-right: 15px;
+}
+
+.pageLogo{
+	grid-area: logo;
+	min-height: 350px;
+	background: green;
+	color: white;
+	background-size: cover;
+	background-position: bottom left;
+	padding: 60px;
+	display: grid;
+}
+
+menu a{
+	color: white;
+	text-decoration: none;
+	text-transform: lowercase;
+	margin-left: 25px;
+	margin-top: 15px;
+	background-color: yellow;
+}
+
+.menu a:hover{
+	text-decoration: bold;
+	margin-left: 25px;
+	background-color: blue
+}
+
