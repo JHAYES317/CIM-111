@@ -35,6 +35,8 @@
 	background-color: green;
 	color: white;
 	text-decoration: none;
+	align-items: center;
+	align-content: center;
 }
 
 .population{
