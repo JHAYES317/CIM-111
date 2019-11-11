@@ -31,6 +31,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	text-transform: uppercase;
 }
 
 .cityinfo{
@@ -40,6 +41,10 @@
 	text-decoration: none;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .population{
@@ -48,6 +53,10 @@
 	color: white;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .income{
@@ -56,6 +65,10 @@
 	color: white;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .about{
@@ -64,6 +77,10 @@
 	color: white;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .education{
@@ -72,6 +89,10 @@
 	color: white;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .media{
@@ -80,6 +101,10 @@
 	color: white;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .climate{
@@ -88,6 +113,10 @@
 	color: white;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .transportation{
@@ -96,6 +125,10 @@
 	color: white;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .mall{
@@ -104,6 +137,10 @@
 	color: white;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .turnberry{
@@ -112,6 +149,10 @@
 	color: white;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .center{
@@ -120,6 +161,10 @@
 	color: white;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .park{
@@ -128,6 +173,10 @@
 	color: white;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .text{
@@ -136,6 +185,10 @@
 	color: white;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .amount{
@@ -144,6 +197,10 @@
 	color:white;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .Address{
@@ -152,6 +209,10 @@
 	color: white;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 .address{
@@ -160,6 +221,10 @@
 	color: black;
 	align-items: center;
 	align-content: center;
+	margin: 0;
+	font-weight: 300;
+	list-style: none;
+	text-transform: uppercase;
 }
 
 @media only screen and (min-width: 750px){
