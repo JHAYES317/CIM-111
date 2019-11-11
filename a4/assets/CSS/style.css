@@ -77,3 +77,58 @@ menu a{
 	color: black;
 }
 
+.about{
+	background: gray;
+	color: black;
+	justify-content: flex-start;
+	align-content: right;
+}
+
+.infoBox{
+	background-color: gray;
+	color: black;
+	display: inline-grid;
+	align-items: right;
+	justify-content: right;
+	align-content: right;
+
+}
+
+.infoBox p{
+	margin: 1;
+}
+
+.price{
+	font-size: 50px;
+	font-weight: 200;
+}
+
+.population{
+	grid-area: population;
+}
+
+.income{
+	grid-area: income;
+}
+
+.frosted p{
+	font-size: 16px;
+}
+
+.menu ul{
+	display: inline-grid;
+	padding: 1;
+	list-style: somali;
+	grid-template-rows: repeat(auto-fit, minmax(150px, 2fr));
+}
+
+li{
+	margin-left: 12px;
+	text-align: left;
+	font-size: 18px;
+	background-color: gray;
+	padding: 40px;
+	display: inline-grid;
+	grid-template-rows: 300px 2fr;
+}
+
