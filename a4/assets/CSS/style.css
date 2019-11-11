@@ -10,8 +10,9 @@
 }
 
 .cityinfo{
-	text-align: left;
+	text-align: center;
 	background-color: green;
+	display: inline-grid;
 }
 
 .population{
