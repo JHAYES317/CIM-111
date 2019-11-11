@@ -47,6 +47,7 @@
 	list-style: none;
 	text-transform: uppercase;
 	text-decoration: underline;
+	padding: 5px;
 }
 
 .population{
@@ -58,6 +59,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	padding: 5px;
 }
 
 .income{
@@ -69,6 +71,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	padding: 5px;
 }
 
 .about{
@@ -80,6 +83,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	padding: 5px;
 }
 
 .education{
@@ -91,6 +95,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	padding: 5px;
 }
 
 .media{
@@ -102,6 +107,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	padding: 5px;
 }
 
 .climate{
@@ -113,6 +119,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	padding: 5px;
 }
 
 .transportation{
@@ -124,6 +131,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	padding: 5px;
 }
 
 .mall{
@@ -135,6 +143,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	padding: 5px;
 }
 
 .turnberry{
@@ -146,6 +155,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	padding: 5px;
 }
 
 .center{
@@ -157,6 +167,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	padding: 5px;
 }
 
 .park{
@@ -168,6 +179,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	padding: 5px;
 }
 
 .text{
@@ -179,6 +191,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	padding: 5px;
 }
 
 .amount{
@@ -191,6 +204,7 @@
 	font-weight: 300;
 	list-style: none;
 	text-transform: uppercase;
+	padding: 5px;
 }
 
 .Address{
@@ -202,6 +216,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	padding: 5px;
 }
 
 .address{
@@ -213,6 +228,7 @@
 	margin: 0;
 	font-weight: 300;
 	list-style: none;
+	padding: 5px;
 }
 
 @media only screen and (min-width: 750px){
