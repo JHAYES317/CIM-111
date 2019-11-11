@@ -26,51 +26,18 @@ li{
 	grid-template-rows: 25px 0fr;
 }
 
-.yacht{
-	text-align: center;
-}
-
-.Races{
-	text-align: center;
-}
-
-.Turnberry{
-	text-align: center;
-	vertical-align: middle;
-}
-
-.Mall{
-	text-align: center;
-}
-
-.Center{
-	text-align: center;
-}
-
-.Park{
-	text-align: center;
-}
-
-.Income{
-	text-align: center;
-}
-
-.Marital{
-	text-align: center;
-}
-
-.map{
-	text-align: center;
-}
-
-.logo{
-	text-align: center;
-}
-
-<style type="text/css">
-.yacht
-{
- text-align:center;
- display:block;
-}
-</style>
+@media only screen and (min-width: 750px){
+	  		body{
+			background-color: yellow;
+		    }
+	}
+@media only screen and (min-width: 500px){
+	  		body{
+			background-color: yellow;
+		    }
+	}
+@media only screen and (min-width: 250px){
+	  		body{
+			background-color: yellow;
+		    }
+	}
