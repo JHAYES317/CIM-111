@@ -35,7 +35,7 @@ img {
 	background-size: cover;
 	background-position: bottom left;
 	padding: 60px;
-	display: inline-grid;
+	display: grid;
 }
 
 menu a{
@@ -54,7 +54,7 @@ menu a{
 }
 
 .features{
-	display: inline-grid;
+	display: grid;
 	grid-template-rows: repeat(auto-fit, minmax(250px, 2fr));
 }
 
@@ -88,7 +88,7 @@ menu a{
 .infoBox{
 	background-color: gray;
 	color: black;
-	display: inline-grid;
+	display: grid;
 	align-items: right;
 	justify-content: right;
 	align-content: right;
@@ -117,7 +117,7 @@ menu a{
 }
 
 .menu ul{
-	display: inline-grid;
+	display: grid;
 	padding: 1;
 	list-style: somali;
 	grid-template-rows: repeat(auto-fit, minmax(150px, 2fr));
@@ -129,7 +129,7 @@ li{
 	font-size: 18px;
 	background-color: gray;
 	padding: 40px;
-	display: inline-grid;
+	display: grid;
 	grid-template-rows: 300px 2fr;
 }
 
