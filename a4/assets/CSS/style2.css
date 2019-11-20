@@ -34,13 +34,13 @@ li{
 	}
 @media only screen and (max-width: 500px){
 	  		body{
-			background-color: yellow;
+			background-color: blue;
 			width: 100%;
 		    }
 	}
 @media only screen and (max-width: 250px){
 	  		body{
-			background-color: yellow;
+			background-color: orange;
 			width: 100%;
 		    }
 	}
