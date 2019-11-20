@@ -251,19 +251,16 @@
 @media only screen and (max-width: 750px){
 	  		body{
 			background-color: yellow;
-			width: 100%
 		    }
 	}
 @media only screen and (max-width: 500px){
 	  		body{
-			background-color: yellow;
-			width: 100%;
+			background-color: green;
 		    }
 	}
 @media only screen and (max-width: 250px){
 	  		body{
-			background-color: yellow;
-			width: 100%;
+			background-color: red;
 		    }
 	}
 
