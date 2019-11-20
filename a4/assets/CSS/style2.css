@@ -32,7 +32,6 @@ li{
 		    }
 		    .menu{
 					background-color: orange;
-					width: 500px;
 				}
 	}
 @media only screen and (max-width: 500px){
@@ -41,7 +40,6 @@ li{
 		    }
 		    .menu{
 					background-color: yellow;
-					color: black;
 		
 				}
 	}
@@ -51,14 +49,6 @@ li{
 		    }
 		    .menu{
 					background-color: blue;
-					color: white;
-					height: 300px;
-					width: 300px;
-					margin-left: auto;
-					margin-right: auto;
-					margin-top: 50px;
-					padding: 10px;
-					font-size: 24px;
 
 			}
 	}
