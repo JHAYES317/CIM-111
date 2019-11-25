@@ -40,6 +40,9 @@ $(".pricing").hide();
 $(".Address").hide();
 }
 
+});
+
+
 
 
 
