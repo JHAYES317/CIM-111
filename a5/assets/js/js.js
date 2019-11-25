@@ -1,3 +1,4 @@
+$(document).ready(function() {
 $(".services").hide();
 $(".Lessons").hide();
 $(".rates").hide();
@@ -24,3 +25,18 @@ $(".pricing").show();
 $(".Address").show();
 	
 }
+else{
+	$(".services").hide();
+$(".Lessons").hide();
+$(".rates").hide();
+$(".text").hide();
+$(".Sessions").hide();
+$(".pricing").hide();
+$(".pricing").hide();
+$(".Accompaniment").hide();
+$(".fees").hide();
+$(".pricing").hide();
+$(".Address").hide();
+}
+});
+
