@@ -1,0 +1,1 @@
+var howMuchRock = prompt("How much do you rock?");
