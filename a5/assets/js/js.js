@@ -1,1 +1,1 @@
-var howMuchRock = prompt("How much do you rock?");
+var likeGuitar = prompt("Do you like rock guitar? Input yes or no.");
