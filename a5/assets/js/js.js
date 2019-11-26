@@ -43,6 +43,8 @@ $(".headSection").hide();
 $(".title").hide();
 }
 
+$("rates").after("Lessons");
+
 });
 
 
