@@ -38,6 +38,9 @@ $(".Accompaniment").hide();
 $(".fees").hide();
 $(".pricing").hide();
 $(".Address").hide();
+$(".container").hide();
+$(".headSection").hide();
+$(".title").hide();
 }
 
 });
