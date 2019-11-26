@@ -68,7 +68,7 @@ var aSong = "I wish";
  //click
  $(document).ready(function() {
  $(".text").on("click", function() {
- 	alert("I've been clicked!");
+ 	console.log("I've been clicked!");
       });
 
 });
