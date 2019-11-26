@@ -72,7 +72,7 @@ var aSong = "I wish";
       });
 //mouseleave
 $(".text").mouseleave(function(){
-  $(".text").css("background-color", "gray");
+  $(".text").css("background-color", "blue");
 });
 
 });
