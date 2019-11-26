@@ -66,10 +66,13 @@ var aSong = "I wish";
     	}
 
  //click
- $("text").click(function(){
-  alert("The paragraph was clicked.");
+ $(document).ready(function() {
+ $(".text").on("click", function() {
+ 	alert("I've been clicked!");
+      });
+
 });
- 
+
 });
 
 
