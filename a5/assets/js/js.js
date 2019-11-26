@@ -8,6 +8,9 @@ $(".Accompaniment").hide();
 $(".fees").hide();
 $(".pricing").hide();
 $(".Address").hide();
+$(".container").hide();
+$(".headSection").hide();
+$(".title").hide();
 
 var likeGuitar = prompt("Do you like music? Input yes or no.");
 if(likeGuitar = "yes"){
