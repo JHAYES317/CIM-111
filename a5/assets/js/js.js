@@ -70,6 +70,10 @@ var aSong = "I wish";
  $(".text").on("click", function() {
  	console.log("I've been clicked!");
       });
+//mouseleave
+$(".text").mouseleave(function(){
+  $(".text").css("background-color", "gray");
+});
 
 });
 
