@@ -1,3 +1,4 @@
+//show/hide and if/else
 $(document).ready(function() {
 $(".services").hide();
 $(".Lessons").hide();
@@ -43,9 +44,15 @@ $(".headSection").hide();
 $(".title").hide();
 }
 
+
+//addhtml()
 $("rates").after("Lessons");
 
+//forloop
+var bands = ["", "Peas", "Lettuce", "Tomatoes"];
 });
+
+
 
 
 
