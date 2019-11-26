@@ -1,5 +1,5 @@
 $(document).ready(function() {
-$(".services").hide();
+$("services").hide();
 $(".Lessons").hide();
 $(".rates").hide();
 $(".text").hide();
