@@ -1,5 +1,5 @@
 $(document).ready(function() {
-$("services").hide();
+$(".services").hide();
 $(".Lessons").hide();
 $(".rates").hide();
 $(".text").hide();
@@ -23,7 +23,7 @@ $(".Address").show();
 	
 }
 else{
-$("services").hide();
+$(".services").hide();
 $(".Lessons").hide();
 $(".rates").hide();
 $(".text").hide();
