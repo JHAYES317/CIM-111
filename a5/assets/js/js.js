@@ -49,7 +49,10 @@ $(".title").hide();
 $("rates").after("Lessons");
 
 //forloop
-var bands = ["", "Peas", "Lettuce", "Tomatoes"];
+var songs = ["I wish", "Sycophant Lady", "Loving Tonight"];
+for (var i = 0; i < songs.length; i++) {
+        console.log("I love " + songs[i]);
+      }
 });
 
 
