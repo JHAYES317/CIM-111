@@ -23,6 +23,9 @@ $(".Accompaniment").show();
 $(".fees").show();
 $(".pricing").show();
 $(".Address").show();
+$(".container").show();
+$(".headSection").show();
+$(".title").show();
 	
 }
 else{
