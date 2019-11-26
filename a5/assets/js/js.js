@@ -53,6 +53,23 @@ var songs = ["I wish", "Sycophant Lady", "Loving Tonight"];
 for (var i = 0; i < songs.length; i++) {
         console.log("I love " + songs[i]);
       }
+
+//function
+var aSong = "I wish";
+
+    	song("I wish");
+
+    	function song (songName){
+    		var song = songName;
+
+    		console.log("The song name is: " + song);
+    	}
+
+ //click
+ $("text").click(function(){
+  alert("The paragraph was clicked.");
+});
+ 
 });
 
 
