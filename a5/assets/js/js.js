@@ -14,7 +14,7 @@ $(".headSection").hide();
 $(".title").hide();
 
 var likeGuitar = prompt("Do you like music? Input yes or no.");
-if(likeGuitar = "yes"){
+if(likeGuitar == "yes"){
 $(".services").show();
 $(".Lessons").show();
 $(".rates").show();
